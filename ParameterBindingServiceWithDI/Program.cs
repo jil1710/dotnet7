@@ -21,6 +21,12 @@ namespace ParameterBindingServiceWithDI
             */
             builder.Services.AddSingleton<IUserRepository,UserRepository>();
 
+            // To stop the default behaviour or .net 7 this feature then configure this below
+            /* builder.Services.Configure<ApiBehaviorOptions>(options =>
+            {
+                options.DisableImplicitFromServicesParameters = true;
+            });
+            */
             var app = builder.Build();
 
             // Configure the HTTP request pipeline.
