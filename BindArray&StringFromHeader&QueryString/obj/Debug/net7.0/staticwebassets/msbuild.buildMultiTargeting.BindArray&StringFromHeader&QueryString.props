@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\BindArray&amp;StringFromHeader&amp;QueryString.props" />
+</Project>

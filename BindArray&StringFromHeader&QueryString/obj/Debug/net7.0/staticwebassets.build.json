@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "1wRXw02vAyQzZuyeHomboQHtJZy+saMq91sLndtSvTs=",
+  "Source": "BindArray&StringFromHeader&QueryString",
+  "BasePath": "_content/BindArray&StringFromHeader&QueryString",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
