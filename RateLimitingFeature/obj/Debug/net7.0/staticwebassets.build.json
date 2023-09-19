@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "S9M5WqGE2tvHyep6TWKx2tdqnJ9XM3rvErQaSVcPlxw=",
+  "Source": "RateLimitingFeature",
+  "BasePath": "_content/RateLimitingFeature",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
