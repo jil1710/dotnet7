@@ -460,28 +460,27 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Jil Patel\\.nuget\\packages\\": {}
+    "C:\\Users\\jil\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\DotNet7\\RequestDecompressionMiddleware\\RequestDecompressionMiddleware.csproj",
+      "projectUniqueName": "C:\\Users\\jil\\Source\\Repos\\dotnet7\\RequestDecompressionMiddleware\\RequestDecompressionMiddleware.csproj",
       "projectName": "RequestDecompressionMiddleware",
-      "projectPath": "C:\\DotNet7\\RequestDecompressionMiddleware\\RequestDecompressionMiddleware.csproj",
-      "packagesPath": "C:\\Users\\Jil Patel\\.nuget\\packages\\",
-      "outputPath": "C:\\DotNet7\\RequestDecompressionMiddleware\\obj\\",
+      "projectPath": "C:\\Users\\jil\\Source\\Repos\\dotnet7\\RequestDecompressionMiddleware\\RequestDecompressionMiddleware.csproj",
+      "packagesPath": "C:\\Users\\jil\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\jil\\Source\\Repos\\dotnet7\\RequestDecompressionMiddleware\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Jil Patel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\jil\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "https://api.nuget.org/v3/index.json": {},
-        "https://pkgs.dev.azure.com/jilp/NugetPkgMan/_packaging/DemoFeed/nuget/v3/index.json": {}
+        "C:\\Program Files\\dotnet\\sdk\\7.0.304\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
+        "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net7.0": {
@@ -527,7 +526,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
       }
     }
   }

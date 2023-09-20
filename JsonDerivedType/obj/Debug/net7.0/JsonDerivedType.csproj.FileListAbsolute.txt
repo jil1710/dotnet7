@@ -1,0 +1,15 @@
+C:\Users\jil\source\repos\dotnet7\JsonDerivedType\bin\Debug\net7.0\JsonDerivedType.exe
+C:\Users\jil\source\repos\dotnet7\JsonDerivedType\bin\Debug\net7.0\JsonDerivedType.deps.json
+C:\Users\jil\source\repos\dotnet7\JsonDerivedType\bin\Debug\net7.0\JsonDerivedType.runtimeconfig.json
+C:\Users\jil\source\repos\dotnet7\JsonDerivedType\bin\Debug\net7.0\JsonDerivedType.dll
+C:\Users\jil\source\repos\dotnet7\JsonDerivedType\bin\Debug\net7.0\JsonDerivedType.pdb
+C:\Users\jil\source\repos\dotnet7\JsonDerivedType\obj\Debug\net7.0\JsonDerivedType.csproj.AssemblyReference.cache
+C:\Users\jil\source\repos\dotnet7\JsonDerivedType\obj\Debug\net7.0\JsonDerivedType.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jil\source\repos\dotnet7\JsonDerivedType\obj\Debug\net7.0\JsonDerivedType.AssemblyInfoInputs.cache
+C:\Users\jil\source\repos\dotnet7\JsonDerivedType\obj\Debug\net7.0\JsonDerivedType.AssemblyInfo.cs
+C:\Users\jil\source\repos\dotnet7\JsonDerivedType\obj\Debug\net7.0\JsonDerivedType.csproj.CoreCompileInputs.cache
+C:\Users\jil\source\repos\dotnet7\JsonDerivedType\obj\Debug\net7.0\JsonDerivedType.dll
+C:\Users\jil\source\repos\dotnet7\JsonDerivedType\obj\Debug\net7.0\refint\JsonDerivedType.dll
+C:\Users\jil\source\repos\dotnet7\JsonDerivedType\obj\Debug\net7.0\JsonDerivedType.pdb
+C:\Users\jil\source\repos\dotnet7\JsonDerivedType\obj\Debug\net7.0\JsonDerivedType.genruntimeconfig.cache
+C:\Users\jil\source\repos\dotnet7\JsonDerivedType\obj\Debug\net7.0\ref\JsonDerivedType.dll

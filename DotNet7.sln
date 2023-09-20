@@ -19,7 +19,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FileUploadInMinimalApi", "F
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BindArrayAndStringFromHeaderAndQueryString", "BindArray&StringFromHeader&QueryString\BindArrayAndStringFromHeaderAndQueryString.csproj", "{CEC1D58F-83CA-45E6-9BD3-9FED9E96F7CE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JsonPropertyNameInValidation", "JsonPropertyNameInValidation\JsonPropertyNameInValidation.csproj", "{36891FFC-990E-4075-A005-E969ACF96740}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "JsonPropertyNameInValidation", "JsonPropertyNameInValidation\JsonPropertyNameInValidation.csproj", "{36891FFC-990E-4075-A005-E969ACF96740}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JsonDerivedType", "JsonDerivedType\JsonDerivedType.csproj", "{BDC4EC3A-65C4-45B4-93CC-1CC4C8B0E957}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -63,6 +65,10 @@ Global
 		{36891FFC-990E-4075-A005-E969ACF96740}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{36891FFC-990E-4075-A005-E969ACF96740}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{36891FFC-990E-4075-A005-E969ACF96740}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BDC4EC3A-65C4-45B4-93CC-1CC4C8B0E957}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDC4EC3A-65C4-45B4-93CC-1CC4C8B0E957}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDC4EC3A-65C4-45B4-93CC-1CC4C8B0E957}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDC4EC3A-65C4-45B4-93CC-1CC4C8B0E957}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
